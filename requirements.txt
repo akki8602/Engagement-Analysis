@@ -5,12 +5,6 @@ aioitertools
 aiosignal 
 alabaster 
 altair 
-anaconda-anon-usage 
-anaconda-catalogs 
-anaconda-client 
-anaconda-cloud-auth 
-anaconda-navigator 
-anaconda-project 
 annotated-types 
 anyio 
 appdirs==1.4.4
@@ -52,16 +46,6 @@ cloudpickle
 colorama 
 colorcet 
 comm 
-conda 
-conda-build 
-conda-content-trust 
-conda-libmamba-solver 
-conda-pack 
-conda-package-handling 
-conda-repo-cli 
-conda-token 
-conda_index 
-conda_package_streaming 
 constantly 
 contourpy 
 cookiecutter 
@@ -178,7 +162,6 @@ multidict
 multipledispatch 
 mypy 
 mypy-extensions 
-navigator-updater 
 nbclient 
 nbconvert 
 nbformat 
@@ -239,7 +222,6 @@ Pygments
 PyJWT 
 pylint 
 pylint-venv 
-pyls-spyder==0.4.0
 pyobjc-core 
 pyobjc-framework-Cocoa 
 pyobjc-framework-CoreServices 
@@ -282,7 +264,6 @@ rich
 rope 
 rpds-py 
 Rtree 
-ruamel-yaml-conda 
 ruamel.yaml 
 ruamel.yaml.clib 
 s3fs 
@@ -310,8 +291,6 @@ sphinxcontrib-htmlhelp
 sphinxcontrib-jsmath 
 sphinxcontrib-qthelp 
 sphinxcontrib-serializinghtml 
-spyder 
-spyder-kernels 
 SQLAlchemy 
 stack-data 
 statsmodels 
