@@ -1,5 +1,7 @@
 aiobotocore 
 hsemotion
+flask-cors
+matplotlib
 aiohappyeyeballs 
 aiohttp 
 aioitertools 
