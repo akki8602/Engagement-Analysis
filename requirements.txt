@@ -1,4 +1,5 @@
 aiobotocore 
+hsemotion
 aiohappyeyeballs 
 aiohttp 
 aioitertools 
